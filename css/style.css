@@ -1,0 +1,43 @@
+.header-icon{
+    height: 30px;
+    width: 70px;
+    background-color: #008cba;
+    border-radius: 8%;
+    background-image: url("https://cdn3.iconfinder.com/data/icons/iconshock_finding_nemo_free_icons/Win/png/24/findingnemo2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 15px;
+}
+
+a:hover{
+   font-weight: 600; 
+}
+
+.main-image{
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.article-image{
+    border-radius: 7%;
+}
+
+.article{
+    text-align: justify;
+    text-indent: 35px;
+}
+
+.article::first-letter{
+    color: #008cba;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+footer p{
+    font-size: 12px;
+}
+
+footer a{
+    font-size: 12px;
+}
